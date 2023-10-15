@@ -1,1 +1,1 @@
-# Email-Spam-Detection
+# Emial_Spam_Classification
